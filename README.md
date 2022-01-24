@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanDrew87 (you call me Andrew).
+- 👋 Hi, I’m @TanDrew87 (you can call me Andrew).
 - 👀 I’m interested in software and internet technology.
 - 🌱 I’m currently learning software development and programming.
 - 💞️ I’m looking to collaborate on making simple video games to practice my coding abilities.
